@@ -1,0 +1,12 @@
+{
+  "name": "LicenceManager",
+  "version": "1.0.0",
+  "description": "License Management Helper",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bootswatch": "^4.1.3"
+  }
+}
